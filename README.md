@@ -1,41 +1,44 @@
-##Logistics Operations & Profitability Dashboard
+# Logistics Operations & Profitability Dashboard
 
-Power BI Capstone Project
+## Power BI Capstone Project
+**By Oluwaseun Tijani**
 
-By Oluwaseun Tijani
-
-Project Overview
+## Project Overview
 
 This Power BI project analyzes logistics operations, driver performance, fleet utilization, maintenance activities, customer profitability, and route performance.
+
 The objective was to transform raw operational data into a comprehensive business intelligence solution that supports data-driven decision-making.
 
 The final report consists of 5 interactive dashboard pages, providing insights into:
 
-Operational Performance
-Driver Performance & Efficiency
-Fleet & Maintenance Analysis
-Route & Customer Profitability
-Executive Summary & Recommendations
+- Operational Performance
+- Driver Performance & Efficiency
+- Fleet & Maintenance Analysis
+- Route & Customer Profitability
+- Executive Summary & Recommendations
 
-Business Problem
+## Business Problem
 
 Logistics organizations generate large volumes of operational data daily. Without centralized reporting, it becomes difficult to answer critical business questions such as:
 
-Are deliveries being completed on time?
-Which drivers perform best?
-Which trucks generate the highest revenue?
-How much does maintenance cost the business?
-Which customers contribute the most revenue?
-Which routes are most profitable?
+- Are deliveries being completed on time?
+- Which drivers perform best?
+- Which trucks generate the highest revenue?
+- How much does maintenance cost the business?
+- Which customers contribute the most revenue?
+- Which routes are most profitable?
 
 This dashboard was developed to answer these questions and provide actionable business insights.
 
-Tools & Technologies
-Tool	Purpose
-Power BI	Dashboard Development
-Power Query	Data Cleaning & Transformation
-DAX	KPI & Measure Creation
-Excel	Data Source
+## Tools & Technologies
+
+| Tool | Purpose |
+| ---- | ------- |
+| Power BI |	Dashboard Development |
+| Power Query |	Data Cleaning & Transformation |
+| DAX	| KPI & Measure Creation |
+| Excel	| Data Source |
+
 Data Modeling	Relationship Management
 📂 Dashboard Pages
 📈 Page 1 — Operational Performance Overview
